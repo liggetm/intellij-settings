@@ -4,10 +4,11 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://builder:9000" />
-          <token />
+          <option name="hostUrl" value="http://172.26.136.50:9000" />
           <option name="name" value="Builder" />
-          <organizationKey />
+          <option name="login" value="admin" />
+          <password>dfcbdfcedfc7dfc3dfc4</password>
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
